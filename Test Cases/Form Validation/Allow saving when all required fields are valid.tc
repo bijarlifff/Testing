@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Allow saving when all required fields are valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54447634-8581-4846-861d-f572ce9c2ed1</testCaseGuid>
+</TestCaseEntity>

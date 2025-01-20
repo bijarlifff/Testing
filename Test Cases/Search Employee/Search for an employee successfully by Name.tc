@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search for an employee successfully by Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47adc582-a47a-4a29-80f0-8d8f61f6160f</testCaseGuid>
+</TestCaseEntity>

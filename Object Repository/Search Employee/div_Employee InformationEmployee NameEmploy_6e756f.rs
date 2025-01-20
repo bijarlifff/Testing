@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee InformationEmployee NameEmploy_6e756f</name>
+   <tag></tag>
+   <elementGuidId>65c128c3-a8c9-4834-b93b-142d77e54c0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#app div >> internal:has-text=&quot;Employee InformationEmployee NameEmployee IdEmployment Status-- Select --Include&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e008657-6614-40f3-9663-bae0cbd623ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>375a91e8-a7a6-474f-bf44-fe1c5866bf0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameJob Title-- Select --Sub Unit-- Select -- Reset  Search  Add (1) Record FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions0361Joseph Evans</value>
+      <webElementGuid>5509c579-b63b-4396-9767-75d4bef790e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>ec0c4878-a0c7-48ab-b585-16202049cdcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>b12fe40c-c3b9-4eae-a0ba-f937a9632a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[4]</value>
+      <webElementGuid>2477459b-86d1-43d7-a2a1-63f23e70d7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>38a7eeef-d401-4cc1-9230-cb816b9b3046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameJob Title-- Select --Sub Unit-- Select -- Reset  Search  Add (1) Record FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions0361Joseph Evans' or . = 'Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameJob Title-- Select --Sub Unit-- Select -- Reset  Search  Add (1) Record FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions0361Joseph Evans')]</value>
+      <webElementGuid>791d58fb-54a8-4e3c-a4a5-ca1d347f8db6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

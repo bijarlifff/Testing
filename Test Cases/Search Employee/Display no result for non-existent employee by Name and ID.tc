@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Display no result for non-existent employee by Name and ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d26fc70-92a7-42c4-a9cb-ae8e548fa776</testCaseGuid>
+</TestCaseEntity>
