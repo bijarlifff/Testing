@@ -1,0 +1,17 @@
+{
+	"name": "orangehrmlive",
+	"version": "1.0.0",
+	"description": "FE Testing",
+	"main": "index.js",
+	"author": "abizar",
+	"license": "MIT",
+	"scripts": {
+		"cy:open": "cypress open",
+		"cy:run": "cypress run",
+		"cy:verify": "cypress verify"
+	},
+	"devDependencies": {
+		"cypress": "14.0.0",
+		"prettier": "^3.4.2"
+	}
+}
